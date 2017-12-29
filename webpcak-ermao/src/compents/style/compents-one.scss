@@ -1,0 +1,15 @@
+body,html{
+  padding: 0;
+  margin: 0;
+}
+.demo{
+  background: green;
+  width: 400px;
+  height: 400px;
+  div{
+    background: fuchsia;
+    width: 200px;
+    height: 200px;
+    display: flex;
+  }
+}

@@ -1,0 +1,11 @@
+.demo {
+  background: gray;
+  display: flex; }
+  .demo .demo_children {
+    color: green;
+    background: indigo;
+    width: 200px;
+    height: 200px;
+    background: url("../images/nav1.png") no-repeat; }
+
+/*# sourceMappingURL=demo.css.map */
